@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  I made 5 animated headers and footers and 5 static for each(Optional)
+  I made 5 animated headers and footers and 5 static for each
 </div>
 
 <br />
